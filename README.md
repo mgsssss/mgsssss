@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm python back-end developer
-<img src="./IMG_20180312_115428_367.JPG" height="500" style="border-radius: 10px">
+<img src="./IMG_20180312_115428_367.JPG" height="500" style="border-radius: 10%">
 
 ## It's important to get back to basics
 
