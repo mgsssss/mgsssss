@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 i'm python back-end developer
 
 ---
 
+* 좋아하는 것 
 
 <h2> My tech stack 📚 </h2>
 
