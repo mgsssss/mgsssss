@@ -1,5 +1,5 @@
-### Hi there 👋 i'm python back-end developer <img src="./1565695174428.PNG" height="180">
-
+### Hi there 👋 i'm python back-end developer
+<img src="./1565695174428.PNG" height="500">
 ## It's important to get back to basics
 
 ---
