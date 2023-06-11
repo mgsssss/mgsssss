@@ -1,5 +1,7 @@
 ### Hi there 👋 i'm python back-end developer
 
+## It's important to get back to basics
+
 ---
 좋아하는 것
 * python
