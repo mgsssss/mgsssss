@@ -1,8 +1,19 @@
 ### Hi there 👋 i'm python back-end developer
 
 ---
+좋아하는 것
+* python
+* django
+* django-restframework
+* linux
+* aws
 
-* 좋아하는 것 
+관심 있는 것
+* react
+* operation systems
+* data structure
+* network
+
 
 <h2> My tech stack 📚 </h2>
 
